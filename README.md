@@ -9,13 +9,9 @@
 -	Add WeekDay column using TEXT function to extract day of the week
 -	Remove outliers
 ### Create charts
--	Use PivotTable to create the following charts
-    o	Call trend (line chart)
- 	
-    o	Popular call days (column chart)
- 	
-    o	Top 10 calls states (map)
- 	
-    o	Call channels (doughnut chart)
- 	
-    o	Reasons for call (bar chart)
+Use PivotTable to create the following charts
+- Call trend (line chart)
+- Popular call days (column chart)
+- Top 10 calls states (map)
+- Call channels (doughnut chart)
+- Reasons for call (bar chart)
