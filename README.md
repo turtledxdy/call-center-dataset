@@ -1,5 +1,6 @@
 # Call Center Analysis
-![image](https://github.com/turtledxdy/share/assets/137591228/e1d8f211-64c3-4f94-8848-13d020793885)
+![image](https://github.com/turtledxdy/call-center-dataset/assets/137591228/fcd8510c-1879-401a-ae0a-3a13b5e8ede8)
+
 [Data source](https://www.kaggle.com/datasets/mesumraza/real-world-fake-dataset-for-practice)
 
 [Modified from](https://medium.com/@Armonia1999/data-analysis-project-excel-dashboard-10c6160f2dbe)
